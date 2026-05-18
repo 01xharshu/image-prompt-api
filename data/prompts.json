@@ -8,5 +8,10 @@
         "id": "2",
         "image": "https://01xharshu.github.io/image-prompt-api/images/image2.png",
         "prompt": "High-resolution 3D image of the Figma logo in the form of a glass translucent square with slightly rounded edges. The shape is glass, square, three-dimensional with a glossy sheen, with a glossy surface structure, with slightly rounded corners of the square, rotated 45 degrees. It is depicted on a white background."
+    },
+    {
+        "id": "3",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image3.png",
+        "prompt": "A single transparent glass number '1', highly detailed, standing upright in the center of the image. The number is made of clear blue-tinted glass with realistic reflections and light refraction. It is placed on a plain white background, soft shadows underneath, minimalistic and clean composition, studio lighting, centered composition"
     }
 ]
