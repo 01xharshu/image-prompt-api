@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image1.png",
+        "prompt": "Ultra-realistic 3D inflatable logo of Discord, designed as a soft, air-filled pillow icon with realistic fabric texture. The logo keeps its original recognizable shape and proportions, but is transformed into a soft inflatable object with rounded edges, gentle folds, subtle wrinkles, and natural air pressure deformation. Material: soft fabric / vinyl-like surface with visible stitching texture, soft creases, and tactile depth. Surface details: fine fabric grain, soft highlights, smooth shadows, slightly matte finish with soft reflections. Color palette must stay true to the original brand colors of the logo (no recoloring, no hue shifts). Lighting: studio lighting, soft diffused light, gentle shadow gradients, clean premium look. Composition: centered, floating object, slightly angled for depth. Background: transparent (PNG). No text, no labels, no background objects, no environment. Ultra-high resolution, cinematic realism, product-style render, minimalistic and clean. Style reference: soft inflatable icon, cozy modern aesthetic, tactile realism, smooth curves, high-quality 3D render."
+    },
+    {
+        "id": "2",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image2.png",
+        "prompt": "High-resolution 3D image of the Figma logo in the form of a glass translucent square with slightly rounded edges. The shape is glass, square, three-dimensional with a glossy sheen, with a glossy surface structure, with slightly rounded corners of the square, rotated 45 degrees. It is depicted on a white background."
+    }
+]
