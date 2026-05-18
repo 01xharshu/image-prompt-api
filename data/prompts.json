@@ -13,5 +13,50 @@
         "id": "3",
         "image": "https://01xharshu.github.io/image-prompt-api/images/image3.png",
         "prompt": "A single transparent glass number '1', highly detailed, standing upright in the center of the image. The number is made of clear blue-tinted glass with realistic reflections and light refraction. It is placed on a plain white background, soft shadows underneath, minimalistic and clean composition, studio lighting, centered composition"
+    },
+    {
+        "id": "4",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image4.png",
+        "prompt": "FOLDER ICON SHAPED AS A MODERN FILE FOLDER, THE FOLDER FORM MADE OF FLOWING LIQUID GLASS, TRANSPARENT AND TRANSLUCENT GLASS MATERIAL, SMOOTH ORGANIC CURVES, FLUID GLASS DEFORMATION, HIGH REFRACTION, INTERNAL LIGHT DISTORTION, SUBTLE IRIDESCENT AND PEARLESCENT REFLECTIONS, POLISHED GLOSSY SURFACE, GLASS THICKNESS VISIBLE, MINIMALIST STUDIO LIGHTING, ISOLATED ON A CLEAN PLAIN BACKGROUND, ULTRA REALISTIC HIGH-DETAIL 3D RENDER, OBJECT-CENTERED COMPOSITION"
+    },
+    {
+        "id": "5",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image5.png",
+        "prompt": "CREATE 3D AVATAR OF MY PICTURE, WITH A HAPPY FACE ON A WHITE BACKGROUND, NO NECKS. CONCEPTUAL PLAYLIST STYLE DIGITAL ART WITH PIXAR QUALITY ASTHETICS."
+    },
+    {
+        "id": "6",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image6.png",
+        "prompt": "Create a highly stylized 3D character portrait with a blocky, geometric voxel-like form and a handcrafted clay / foam micro-particle texture, inspired by painterly stop-motion aesthetics. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the person’s identity, facial structure, proportions, skin tone, and key features, but reinterpret them into a cuboid, low-poly caricature form with simplified geometry, squared facial planes, and intentionally rigid structure. Apply a dense tactile surface made of tiny bead-like or felted particles across all visible elements for a handcrafted look. Render against a swirling, painterly, post-impressionist background with thick directional strokes and vibrant motion, evoking a dreamlike night-sky energy. Lighting should be soft but directional, with warm highlights and gentle shadow falloff to enhance texture depth without realism. The overall look should feel artistic, whimsical, museum-grade, and handcrafted, not photoreal, not Pixar, not vinyl, not glossy CGI. Ultra-high detail, clean edges, intentional stylization, no text, no logos, no watermarks. Aspect ratio 4:5."
+    },
+    {
+        "id": "7",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image7.png",
+        "prompt": "panning shot of a blurry my silhouette, soft motion blur trailing behind me, gentle film grain, diffused edge lighting, deep red gradient background with glowing haze, soft-focus facial features, smooth atmosphere glow, slow shutter cinematic effect"
+    },
+    {
+        "id": "8",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image8.png",
+        "prompt": ""
+    },
+    {
+        "id": "9",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image9.png",
+        "prompt": ""
+    },
+    {
+        "id": "10",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image10.png",
+        "prompt": ""
+    },
+    {
+        "id": "11",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image11.png",
+        "prompt": ""
+    },
+    {
+        "id": "12",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image12.png",
+        "prompt": ""
     }
 ]
