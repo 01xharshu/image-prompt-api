@@ -21,12 +21,12 @@
     },
     {
         "id": "5",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image5.jpg",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image5.png",
         "prompt": "CREATE 3D AVATAR OF MY PICTURE, WITH A HAPPY FACE ON A WHITE BACKGROUND, NO NECKS. CONCEPTUAL PLAYLIST STYLE DIGITAL ART WITH PIXAR QUALITY ASTHETICS."
     },
     {
         "id": "6",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image6.png",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image6.jpg",
         "prompt": "Create a highly stylized 3D character portrait with a blocky, geometric voxel-like form and a handcrafted clay / foam micro-particle texture, inspired by painterly stop-motion aesthetics. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the person’s identity, facial structure, proportions, skin tone, and key features, but reinterpret them into a cuboid, low-poly caricature form with simplified geometry, squared facial planes, and intentionally rigid structure. Apply a dense tactile surface made of tiny bead-like or felted particles across all visible elements for a handcrafted look. Render against a swirling, painterly, post-impressionist background with thick directional strokes and vibrant motion, evoking a dreamlike night-sky energy. Lighting should be soft but directional, with warm highlights and gentle shadow falloff to enhance texture depth without realism. The overall look should feel artistic, whimsical, museum-grade, and handcrafted, not photoreal, not Pixar, not vinyl, not glossy CGI. Ultra-high detail, clean edges, intentional stylization, no text, no logos, no watermarks. Aspect ratio 4:5."
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "id": "12",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image12.png",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image12.jpg",
         "prompt": "Transform this photo into an expressive high-fashion editorial illustration while preserving the person’s identity, facial structure, hairstyle, and recognizable features. Convert the portrait into a minimalist hand-drawn fashion sketch with elegant elongated proportions. Use bold black ink contour lines, loose confident brush strokes, slightly imperfect asymmetrical hand-drawn linework, simplified facial anatomy, stylized almond-shaped eyes, minimal nose details, and expressive graphic lips. Apply flat marker color rendering with a limited sophisticated palette, artistic abstract blush patches under the eyes, subtle colorful eye makeup accents, and semi-abstract graphic shading. Render hair as bold expressive ink masses with visible white highlight gaps. Simplify clothing into large geometric color blocks with editorial fashion illustration styling. Clean white background, scanned marker-on-paper texture, modern Vogue"
     }
 ]
