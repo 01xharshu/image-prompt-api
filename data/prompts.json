@@ -21,7 +21,7 @@
     },
     {
         "id": "5",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image5.png",
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image5.jpg",
         "prompt": "CREATE 3D AVATAR OF MY PICTURE, WITH A HAPPY FACE ON A WHITE BACKGROUND, NO NECKS. CONCEPTUAL PLAYLIST STYLE DIGITAL ART WITH PIXAR QUALITY ASTHETICS."
     },
     {
@@ -41,22 +41,22 @@
     },
     {
         "id": "9",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image9.png",
-        "prompt": ""
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image9.jpg",
+        "prompt": "Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles. Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail. "
     },
     {
         "id": "10",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image10.png",
-        "prompt": ""
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image10.webp",
+        "prompt": "A cinematic overhead street photo of a young couple walking on a zebra crossing, candid and natural interaction, boy happily laughing with her arm over the girl's shoulder, playful romantic atmosphere. Boy wearing a black cap, oversized pale blue shirt, dark sweater around shoulders, loose black pants, sneakers, carrying a brown paper shopping bag. Girl wearing an oversized dark sweatshirt with an orange sweater tied over her shoulders, green shorts, black socks and white sneakers, holding a small orange fruit. Soft daylight, muted color grading, realistic skin texture, documentary photography, subtle film grain, Korean/Japanese lifestyle aesthetic, emotional storytelling, high-angle top-down composition, natural movement, ultra realistic, masterpiece."
     },
     {
         "id": "11",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image11.png",
-        "prompt": ""
+        "image": "https://01xharshu.github.io/image-prompt-api/images/image11.webp",
+        "prompt": "Draw the character of the image, 'Nico', in a free sketch style and without embellishments. Against a bright white background, it freely distributes full-body drawings, face close-ups, small doodles, full-body sketches and chibi versions, so that the page conveys the character's mood and personality.Don't do it as an organized character slip, but as a sketchbook full of information spontaneously drawn by an illustrator and then stacked. Use thick, simple and slightly messy lines that look like hand sketches. Add anime-style illustrations, vibrant colors with strong contrast, random notes or small doodles, a soft color palette:#DFECE3,#C2CD87,#738E38,#6FA5A1,#738C76,#37583F and tender expressions, placed naturally between images.Maintain character motifs and colors, but allow for a more freer and irregular drawing and composition style. Feel free to add any details that you deem necessary. Name: Nico. Personality: honest, direct, intelligent, spontaneous, caring, admirable Zodiac sign: Scorpio. Likes: badminton, video games, cats, matcha, being alone, cooking, watching series and movies, drawing and reading, singing and dancing."
     },
     {
         "id": "12",
         "image": "https://01xharshu.github.io/image-prompt-api/images/image12.png",
-        "prompt": ""
+        "prompt": "Transform this photo into an expressive high-fashion editorial illustration while preserving the person’s identity, facial structure, hairstyle, and recognizable features. Convert the portrait into a minimalist hand-drawn fashion sketch with elegant elongated proportions. Use bold black ink contour lines, loose confident brush strokes, slightly imperfect asymmetrical hand-drawn linework, simplified facial anatomy, stylized almond-shaped eyes, minimal nose details, and expressive graphic lips. Apply flat marker color rendering with a limited sophisticated palette, artistic abstract blush patches under the eyes, subtle colorful eye makeup accents, and semi-abstract graphic shading. Render hair as bold expressive ink masses with visible white highlight gaps. Simplify clothing into large geometric color blocks with editorial fashion illustration styling. Clean white background, scanned marker-on-paper texture, modern Vogue"
     }
 ]
