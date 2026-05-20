@@ -1,62 +1,86 @@
 [
-    {
-        "id": "1",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image1.png",
-        "prompt": "Ultra-realistic 3D inflatable logo of Discord, designed as a soft, air-filled pillow icon with realistic fabric texture. The logo keeps its original recognizable shape and proportions, but is transformed into a soft inflatable object with rounded edges, gentle folds, subtle wrinkles, and natural air pressure deformation. Material: soft fabric / vinyl-like surface with visible stitching texture, soft creases, and tactile depth. Surface details: fine fabric grain, soft highlights, smooth shadows, slightly matte finish with soft reflections. Color palette must stay true to the original brand colors of the logo (no recoloring, no hue shifts). Lighting: studio lighting, soft diffused light, gentle shadow gradients, clean premium look. Composition: centered, floating object, slightly angled for depth. Background: transparent (PNG). No text, no labels, no background objects, no environment. Ultra-high resolution, cinematic realism, product-style render, minimalistic and clean. Style reference: soft inflatable icon, cozy modern aesthetic, tactile realism, smooth curves, high-quality 3D render."
-    },
-    {
-        "id": "2",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image2.png",
-        "prompt": "High-resolution 3D image of the Figma logo in the form of a glass translucent square with slightly rounded edges. The shape is glass, square, three-dimensional with a glossy sheen, with a glossy surface structure, with slightly rounded corners of the square, rotated 45 degrees. It is depicted on a white background."
-    },
-    {
-        "id": "3",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image3.png",
-        "prompt": "A single transparent glass number '1', highly detailed, standing upright in the center of the image. The number is made of clear blue-tinted glass with realistic reflections and light refraction. It is placed on a plain white background, soft shadows underneath, minimalistic and clean composition, studio lighting, centered composition"
-    },
-    {
-        "id": "4",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image4.png",
-        "prompt": "FOLDER ICON SHAPED AS A MODERN FILE FOLDER, THE FOLDER FORM MADE OF FLOWING LIQUID GLASS, TRANSPARENT AND TRANSLUCENT GLASS MATERIAL, SMOOTH ORGANIC CURVES, FLUID GLASS DEFORMATION, HIGH REFRACTION, INTERNAL LIGHT DISTORTION, SUBTLE IRIDESCENT AND PEARLESCENT REFLECTIONS, POLISHED GLOSSY SURFACE, GLASS THICKNESS VISIBLE, MINIMALIST STUDIO LIGHTING, ISOLATED ON A CLEAN PLAIN BACKGROUND, ULTRA REALISTIC HIGH-DETAIL 3D RENDER, OBJECT-CENTERED COMPOSITION"
-    },
-    {
-        "id": "5",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image5.png",
-        "prompt": "CREATE 3D AVATAR OF MY PICTURE, WITH A HAPPY FACE ON A WHITE BACKGROUND, NO NECKS. CONCEPTUAL PLAYLIST STYLE DIGITAL ART WITH PIXAR QUALITY ASTHETICS."
-    },
-    {
-        "id": "6",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image6.jpg",
-        "prompt": "Create a highly stylized 3D character portrait with a blocky, geometric voxel-like form and a handcrafted clay / foam micro-particle texture, inspired by painterly stop-motion aesthetics. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the person’s identity, facial structure, proportions, skin tone, and key features, but reinterpret them into a cuboid, low-poly caricature form with simplified geometry, squared facial planes, and intentionally rigid structure. Apply a dense tactile surface made of tiny bead-like or felted particles across all visible elements for a handcrafted look. Render against a swirling, painterly, post-impressionist background with thick directional strokes and vibrant motion, evoking a dreamlike night-sky energy. Lighting should be soft but directional, with warm highlights and gentle shadow falloff to enhance texture depth without realism. The overall look should feel artistic, whimsical, museum-grade, and handcrafted, not photoreal, not Pixar, not vinyl, not glossy CGI. Ultra-high detail, clean edges, intentional stylization, no text, no logos, no watermarks. Aspect ratio 4:5."
-    },
-    {
-        "id": "7",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image7.png",
-        "prompt": "panning shot of a blurry my silhouette, soft motion blur trailing behind me, gentle film grain, diffused edge lighting, deep red gradient background with glowing haze, soft-focus facial features, smooth atmosphere glow, slow shutter cinematic effect"
-    },
-    {
-        "id": "8",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image8.png",
-        "prompt": "Create a fake cartoonstyle new jersey ID in a messy crayon and marker doodle style.Make it look hand-drawn with crooked text,uneven coloring, scribbly textures,thickoutlines,childish handwriting,random stickers/doodles, exaggerated cartoon portrait,goofy fake information,graffiti elements,stars,hearts, palm trees,cars,and chaotic meme energy. Make it intentionally funny and low-quality looking,like a sketchbook drawing made with cheap crayons and makers do NOT make it realistic or professional"
-    },
-    {
-        "id": "9",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image9.jpg",
-        "prompt": "Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles. Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail. "
-    },
-    {
-        "id": "10",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image10.webp",
-        "prompt": "A cinematic overhead street photo of a young couple walking on a zebra crossing, candid and natural interaction, boy happily laughing with her arm over the girl's shoulder, playful romantic atmosphere. Boy wearing a black cap, oversized pale blue shirt, dark sweater around shoulders, loose black pants, sneakers, carrying a brown paper shopping bag. Girl wearing an oversized dark sweatshirt with an orange sweater tied over her shoulders, green shorts, black socks and white sneakers, holding a small orange fruit. Soft daylight, muted color grading, realistic skin texture, documentary photography, subtle film grain, Korean/Japanese lifestyle aesthetic, emotional storytelling, high-angle top-down composition, natural movement, ultra realistic, masterpiece."
-    },
-    {
-        "id": "11",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image11.webp",
-        "prompt": "Draw the character of the image, 'Nico', in a free sketch style and without embellishments. Against a bright white background, it freely distributes full-body drawings, face close-ups, small doodles, full-body sketches and chibi versions, so that the page conveys the character's mood and personality.Don't do it as an organized character slip, but as a sketchbook full of information spontaneously drawn by an illustrator and then stacked. Use thick, simple and slightly messy lines that look like hand sketches. Add anime-style illustrations, vibrant colors with strong contrast, random notes or small doodles, a soft color palette:#DFECE3,#C2CD87,#738E38,#6FA5A1,#738C76,#37583F and tender expressions, placed naturally between images.Maintain character motifs and colors, but allow for a more freer and irregular drawing and composition style. Feel free to add any details that you deem necessary. Name: Nico. Personality: honest, direct, intelligent, spontaneous, caring, admirable Zodiac sign: Scorpio. Likes: badminton, video games, cats, matcha, being alone, cooking, watching series and movies, drawing and reading, singing and dancing."
-    },
-    {
-        "id": "12",
-        "image": "https://01xharshu.github.io/image-prompt-api/images/image12.jpg",
-        "prompt": "Transform this photo into an expressive high-fashion editorial illustration while preserving the person’s identity, facial structure, hairstyle, and recognizable features. Convert the portrait into a minimalist hand-drawn fashion sketch with elegant elongated proportions. Use bold black ink contour lines, loose confident brush strokes, slightly imperfect asymmetrical hand-drawn linework, simplified facial anatomy, stylized almond-shaped eyes, minimal nose details, and expressive graphic lips. Apply flat marker color rendering with a limited sophisticated palette, artistic abstract blush patches under the eyes, subtle colorful eye makeup accents, and semi-abstract graphic shading. Render hair as bold expressive ink masses with visible white highlight gaps. Simplify clothing into large geometric color blocks with editorial fashion illustration styling. Clean white background, scanned marker-on-paper texture, modern Vogue"
-    }
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image1.png",
+    "prompt" : "Ultra-realistic 3D inflatable logo of Discord, designed as a soft, air-filled pillow icon with realistic fabric texture. The logo keeps its original recognizable shape and proportions, but is transformed into a soft inflatable object with rounded edges, gentle folds, subtle wrinkles, and natural air pressure deformation. Material: soft fabric / vinyl-like surface with visible stitching texture, soft creases, and tactile depth. Surface details: fine fabric grain, soft highlights, smooth shadows, slightly matte finish with soft reflections. Color palette must stay true to the original brand colors of the logo (no recoloring, no hue shifts). Lighting: studio lighting, soft diffused light, gentle shadow gradients, clean premium look. Composition: centered, floating object, slightly angled for depth. Background: transparent (PNG). No text, no labels, no background objects, no environment. Ultra-high resolution, cinematic realism, product-style render, minimalistic and clean. Style reference: soft inflatable icon, cozy modern aesthetic, tactile realism, smooth curves, high-quality 3D render."
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image2.png",
+    "prompt" : "High-resolution 3D image of the Figma logo in the form of a glass translucent square with slightly rounded edges. The shape is glass, square, three-dimensional with a glossy sheen, with a glossy surface structure, with slightly rounded corners of the square, rotated 45 degrees. It is depicted on a white background."
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image3.png",
+    "prompt" : "A single transparent glass number '1', highly detailed, standing upright in the center of the image. The number is made of clear blue-tinted glass with realistic reflections and light refraction. It is placed on a plain white background, soft shadows underneath, minimalistic and clean composition, studio lighting, centered composition"
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image4.png",
+    "prompt" : "FOLDER ICON SHAPED AS A MODERN FILE FOLDER, THE FOLDER FORM MADE OF FLOWING LIQUID GLASS, TRANSPARENT AND TRANSLUCENT GLASS MATERIAL, SMOOTH ORGANIC CURVES, FLUID GLASS DEFORMATION, HIGH REFRACTION, INTERNAL LIGHT DISTORTION, SUBTLE IRIDESCENT AND PEARLESCENT REFLECTIONS, POLISHED GLOSSY SURFACE, GLASS THICKNESS VISIBLE, MINIMALIST STUDIO LIGHTING, ISOLATED ON A CLEAN PLAIN BACKGROUND, ULTRA REALISTIC HIGH-DETAIL 3D RENDER, OBJECT-CENTERED COMPOSITION"
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image5.png",
+    "prompt" : "CREATE 3D AVATAR OF MY PICTURE, WITH A HAPPY FACE ON A WHITE BACKGROUND, NO NECKS. CONCEPTUAL PLAYLIST STYLE DIGITAL ART WITH PIXAR QUALITY ASTHETICS."
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image6.jpg",
+    "prompt" : "Create a highly stylized 3D character portrait with a blocky, geometric voxel-like form and a handcrafted clay / foam micro-particle texture, inspired by painterly stop-motion aesthetics. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the person’s identity, facial structure, proportions, skin tone, and key features, but reinterpret them into a cuboid, low-poly caricature form with simplified geometry, squared facial planes, and intentionally rigid structure. Apply a dense tactile surface made of tiny bead-like or felted particles across all visible elements for a handcrafted look. Render against a swirling, painterly, post-impressionist background with thick directional strokes and vibrant motion, evoking a dreamlike night-sky energy. Lighting should be soft but directional, with warm highlights and gentle shadow falloff to enhance texture depth without realism. The overall look should feel artistic, whimsical, museum-grade, and handcrafted, not photoreal, not Pixar, not vinyl, not glossy CGI. Ultra-high detail, clean edges, intentional stylization, no text, no logos, no watermarks. Aspect ratio 4:5."
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image7.png",
+    "prompt" : "panning shot of a blurry my silhouette, soft motion blur trailing behind me, gentle film grain, diffused edge lighting, deep red gradient background with glowing haze, soft-focus facial features, smooth atmosphere glow, slow shutter cinematic effect"
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image8.png",
+    "prompt" : "Create a fake cartoonstyle new jersey ID in a messy crayon and marker doodle style.Make it look hand-drawn with crooked text,uneven coloring, scribbly textures,thickoutlines,childish handwriting,random stickers/doodles, exaggerated cartoon portrait,goofy fake information,graffiti elements,stars,hearts, palm trees,cars,and chaotic meme energy. Make it intentionally funny and low-quality looking,like a sketchbook drawing made with cheap crayons and makers do NOT make it realistic or professional"
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image9.jpg",
+    "prompt" : "Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles. Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail. "
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image10.webp",
+    "prompt" : "A cinematic overhead street photo of a young couple walking on a zebra crossing, candid and natural interaction, boy happily laughing with her arm over the girl's shoulder, playful romantic atmosphere. Boy wearing a black cap, oversized pale blue shirt, dark sweater around shoulders, loose black pants, sneakers, carrying a brown paper shopping bag. Girl wearing an oversized dark sweatshirt with an orange sweater tied over her shoulders, green shorts, black socks and white sneakers, holding a small orange fruit. Soft daylight, muted color grading, realistic skin texture, documentary photography, subtle film grain, Korean/Japanese lifestyle aesthetic, emotional storytelling, high-angle top-down composition, natural movement, ultra realistic, masterpiece."
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image11.webp",
+    "prompt" : "Draw the character of the image, 'Nico', in a free sketch style and without embellishments. Against a bright white background, it freely distributes full-body drawings, face close-ups, small doodles, full-body sketches and chibi versions, so that the page conveys the character's mood and personality.Don't do it as an organized character slip, but as a sketchbook full of information spontaneously drawn by an illustrator and then stacked. Use thick, simple and slightly messy lines that look like hand sketches. Add anime-style illustrations, vibrant colors with strong contrast, random notes or small doodles, a soft color palette:#DFECE3,#C2CD87,#738E38,#6FA5A1,#738C76,#37583F and tender expressions, placed naturally between images.Maintain character motifs and colors, but allow for a more freer and irregular drawing and composition style. Feel free to add any details that you deem necessary. Name: Nico. Personality: honest, direct, intelligent, spontaneous, caring, admirable Zodiac sign: Scorpio. Likes: badminton, video games, cats, matcha, being alone, cooking, watching series and movies, drawing and reading, singing and dancing."
+  },
+  {
+    "image" : "https://01xharshu.github.io/image-prompt-api/images/image12.jpg",
+    "prompt" : "Transform this photo into an expressive high-fashion editorial illustration while preserving the person’s identity, facial structure, hairstyle, and recognizable features. Convert the portrait into a minimalist hand-drawn fashion sketch with elegant elongated proportions. Use bold black ink contour lines, loose confident brush strokes, slightly imperfect asymmetrical hand-drawn linework, simplified facial anatomy, stylized almond-shaped eyes, minimal nose details, and expressive graphic lips. Apply flat marker color rendering with a limited sophisticated palette, artistic abstract blush patches under the eyes, subtle colorful eye makeup accents, and semi-abstract graphic shading. Render hair as bold expressive ink masses with visible white highlight gaps. Simplify clothing into large geometric color blocks with editorial fashion illustration styling. Clean white background, scanned marker-on-paper texture, modern Vogue"
+  },
+  {
+    "image" : "images/image13.jpg",
+    "prompt" : "[product name], technical blueprint drawing, orthographic view, front view + side view + top view, white vector line art, thin construction lines, precise measurements, annotation labels, dimension arrows, grid background, deep blue background, minimal design, engineering schematic style, high detail"
+  },
+  {
+    "image" : "images/image14.jpg",
+    "prompt" : "Ultra-realistic black and white studio portrait, person is sitting on a simple folding chair, wearing black blazer, black t-shirt, flared jeans, and chunky sneakers. The pose is relaxed, with legs slightly stretched forward, one hand resting casually on the chair, wearing sunglasses. The background is a plain white studio Surrounding the subject are black, white, and orange doodle graffiti illustrations: lightning, zigzag lines, swirls, arrows, and motivational words"
+  },
+  {
+    "image" : "images/image15.jpg",
+    "prompt" : "High-angle editorial street-style photograph, taken from a balcony/upper-floor viewpoint looking down at a stylish man standing on sunlit asphalt. Composition: subject centered slightly left, full body visible, lots of negative space around him; right edge shows the front corner of a glossy black boxy luxury SUV (round headlight + horizontal chrome grille) cropped into frame. Ground details: rough grey asphalt with faint tire scuffs and dust, a diagonal strip of small cobblestones near the top of frame, soft tree-branch shadows cast across the road.\n\nSubject: young adult man, light skin, short moustache, relaxed confident expression, looking up toward camera; wearing a brown baseball cap with white embroidered monogram letters, chunky black rectangular sunglasses; oversized black leather jacket with visible tan contrast stitching and wide lapels; white open-collar shirt underneath (slightly unbuttoned); beige knit V-neck buttoned vest/cardigan (4 buttons); very wide grey pleated trousers; white shoes with dark toe detail. Pose: left hand holding a white takeaway coffee cup with lid (small cup, beige sleeve), right hand raised touching the side of his cap/sunglasses.\n\nLighting: warm late-afternoon sunlight from upper left, crisp highlights on leather jacket and SUV paint, gentle falloff, natural shadows. Color grade: warm cinematic browns/greys, slightly desaturated, subtle film grain, sharp subject with mild background softness, realistic textures, no extra people, no text."
+  },
+  {
+    "image" : "images/image16.jpg",
+    "prompt" : "A minimalist luxury beauty product scene featuring a single dropper serum bottle [POSITIONING] [BACKGROUND MATERIAL] with [MATERIAL CHARACTERISTICS]. [BACKGROUND DESCRIPTION] with [DECORATIVE ELEMENTS] surrounding the bottle. The serum bottle is elegant and minimal, [BOTTLE COLOR] glass with a [CAP COLOR/MATERIAL] dropper cap, perfectly centered. [TEXTURE DESCRIPTION], creating a [MOOD/STYLE], gallery-like composition. [LIGHTING TYPE], gentle shadows, calm and refined atmosphere. [COLOR PALETTE], serene, [AESTHETIC ADJECTIVES], luxury skincare aesthetic. Ultra high-resolution product photography, precise textures, realistic materials, shallow depth of field, clean background, no text, no branding, no people."
+  },
+  {
+    "image" : "images/image17.jpg",
+    "prompt" : "Ethereal woman in a 1950s-inspired Dior silk dress, soft ivory fabric flowing in motion captured on ARRI Alexa Mini LF with Zeiss Supreme Prime 50mm diffused morning light through gauze curtains a gaze of quiet remembrance, fingertips brushing lace tactile sheen of satin and pearl Parisian apartment interior with vintage mirrors and dust motes in air tone: In the Mood for Love meets Dior Cruise 2024 ISO 400, f/1.8, 1/200s, Kodak Portra 800 color profile. --ar 4:5 --raw --stylize 1000"
+  },
+  {
+    "image" : "images/image18.png",
+    "prompt" : "Create a head-and-shoulders Pixar-style 3D avatar of a sharp-witted\nMODEL with curly dark hair and thick-rimmed modern glasses. He features a skeptical expression with one raised eyebrow, a calculating smirk, and eyes looking sideways against a seamless white background.\nWearing a dark charcoal hoodie, the render showcases flawless 3D skin and soft cinematic studio lighting for a clean, minimalist aesthetic."
+  },
+  {
+    "image" : "images/image19.png",
+    "prompt" : "Create a head-and-shoulders Pixar-style 3D avatar of a cute, introverted\nMODEL with dark hair in space buns and oversized round glasses. She\n\nfeatures a wide-eyed expression of wonder with a small \"O\" shaped\n\nmouth, wearing a chunky cream-colored knit sweater. Set against a\n\nseamless white background, the render showcases flawless 3D skin and\n\nsoft cinematic studio lighting for a clean, minimalist aesthetic.\n"
+  },
+  {
+    "image" : "images/image20.png",
+    "prompt" : "Create the [McDonald's] logo using thick, chunky knitted wool with a soft, 3D plush texture. Use the exact brand colours for the yarn, arranged in sections or gradients matching the original logo style. The design should look cosy, handmade, and highly realistic, with visible woven detail and soft, natural shadows. Place the logo on a clean, light cream or off-white background with realistic lighting. High-resolution, centred composition, warm and soft aesthetic. "
+  },
+  {
+    "image" : "images/image21.png",
+    "prompt" : "Use the uploaded image as the exact product reference. Do not change packaging, logo, shape, or proportions. Create a high-end premium ce cream advertising photoshoot. Main subject ice cream tub as the hero, with a dynamic scoop rising upward or slightly above the tub to create a strong \"pop\" effect. The cream must feel lifted, soft, and voluminous, not flat. Texture: ultra-rich, creamy, dense surface with visible ingredient details. Slight soft peaks and curves to enhance depth and realism. Lighting: studio lighting with warm yellow ambient glow. - Soft key light from the front to enhance creaminess - Subtle rim light to define edges and separate from background - Warm ambient backlight to create a glowing halo effect behind the product. Background: smooth gradient in warm yellow tones (soft butter yellow to deeper golden ones), with a bright center glow to make the product stand out. Composition: centered hero shot with clean negative space, strong visual focus, premium advertising layout. Atmosphere: minimal floating crumbs or ingredient particles, subtle and controlled to enhance motion without clutter. Focus: ultra sharp product, shallow depth of field, clean separation. Style: modern premium food campaign, bright, indulgent, clean, high-end commercial look. Photorealistic, high resolution, no CGI look, no Al artifacts. Negative: flat cream, dull texture, oversaturated yellow, messy composition, distorted packaging, blur logo, text, watermark."
+  }
 ]
