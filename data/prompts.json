@@ -102,5 +102,25 @@
   {
     "image" : "images/image26.png",
     "prompt" : "A hyper-realistic, highly detailed depiction of the Cyrillic letter 'k' crafted using tufting technique. The letter is made of vibrant, multicolored wool yarn (shades of red, blue, and cream) with a soft, fluffy texture, arranged in intricate tufted patterns. The tufting is set against a clean, pure white background, with subtle frayed edges and delicate stitching details. The scene is lit by soft, warm light, highlighting the tactile, three-dimensional quality of the yarn and the depth of the tufted design. The atmosphere is cozy and artisanal, with a focus on fine textures and craftsmanship. Style: photorealism, 8K resolution. --ar 1:1 --\nv 5--q1"
+  },
+  {
+    "image" : "images/image27.png",
+    "prompt" : "A 3D letter 'J' intricately designed with a lush arrangement of vibrant, blooming flowers. The letter is composed of various types of blossoms, including daisies, roses, succulents, and wildflowers, creating a rich, organic texture. Each petal and leaf is highly detailed, with realistic lighting and subtle shadows adding depth. The color palette includes soft pastels and natural greens, giving a fresh and elegant look. The background is pure white, creating a clean and minimalistic contrast that highlights the floral design.\nSoft diffused lighting enhances the depth and realism.\nUltra HD, hyper-realistic, high-detail render with artistic and sophisticated feel"
+  },
+  {
+    "image" : "images/image28.png",
+    "prompt" : "Create a high-resolution 3D capital letter \"G\" designed as a Swarovski-inspired crystal runway object.\nFORM: elegant sculptural capital letter G, thick, dimensional structure (not flat typography), precise geometry with couture proportions, smooth outer contour, sharp internal faceting\nMATERIAL: transparent ultra-clear crystal glass, diamond-like faceted surfaces, multi-plane cuts with high precision, sharp edges with realistic bevels, deep internal refraction, subtle prism rainbow light dispersion, light splitting through edges\nSURFACE DETAILS: flawless polished finish, no scratches, hyper-clean crystal clarity, subtle chromatic aberration at light intersections LIGHTING: high-fashion runway lighting, strong key light to create refraction, dramatic side rim lighting, prismatic reflections, studio black-to-light gradient reflections inside crystal\nBACKGROUND: fully transparent PNG (alpha channel), no visible background, isolated object, no ground shadow\nQUALITY: ultra photorealistic, macro detail, luxury campaign aesthetic, couture jewellery advertisement style, sharp focus, no blur, no CGI softness"
+  },
+  {
+    "image" : "images/image29.png",
+    "prompt" : "photo futuristic biomechanical white robotic heart hovers over a white surface, white wires, metal parts, cyberpunk style, realistic, high detail\n--ar 3:4 --v 6.1 --stylize 117"
+  },
+  {
+    "image" : "images/image30.png",
+    "prompt" : "Generate a hyper-realistic image of a custom-shaped 3D PVC patch where the patch outline perfectly follows the Ilogol silhouette, maintaining brand-accurate colors. The patch is sewn onto [color] fabric with visible, precise stitching. The patch should have raised, dimensional details with a [surface] PVC finish, visible stitching around the edges, and realistic texture. The fabric should show natural weave patterns, slight wrinkles, and appropriate lighting that highlights the 3D depth of the patch. Focus on commercial product photography quality with sharp details, professional studio lighting, and a clean composition that emphasizes both the patch's dimensionality and the fabric's material properties."
+  },
+  {
+    "image" : "images/image31.png",
+    "prompt" : "Hyperrealistic product photography of a glossy 3D enamel pin badge featuring the [brand] logo, pinned into [materiall fabric. Shot with a wide-angle lens at f/1.4 with razor-sharp focus on the badge and creamy bokeh background. Physically accurate reflections,\nrefractions, and micro-scratches on the metal surface. Soft studio lighting with a single key light casting elegant soft shadows across the fabric texture. Slight Dutch angle for dynamic composition. Ultra-detailed render, editorial fashion photography style."
   }
 ]
