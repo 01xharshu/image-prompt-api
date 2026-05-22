@@ -86,5 +86,21 @@
   {
     "image" : "images/image22.png",
     "prompt" : "A highly detailed 3D caricature of a cheerful man with an oversized head, a big smile showcasing large teeth, and curly voluminous hair. He is wearing a short-sleeved white button-up shirt, brown high-waisted pants with a belt, and traditional sandals. His pose is casual and friendly, with one hand touching his chin in a thoughtful manner. The art style is semi-realistic with exaggerated cartoonish features, set against a clean white background.\"A highly detailed 3D caricature of a cheerful man with an oversized head, a big smile showcasing large teeth, and curly voluminous hair. He is wearing a short-sleeved white button-up shirt, brown high-waisted pants with a belt, and traditional sandals. His pose is casual and friendly, with one hand touching his chin in a thoughtful manner. The art style is semi-realistic with exaggerated cartoonish features, set against a clean white background."
+  },
+  {
+    "image" : "images/image23.png",
+    "prompt" : "cute kawaii female character in yellow jacket with brown hair, 9 different facial expressions in sticker sheet style - laughing, thinking, in love with heart eyes, angry, confused, surprised, having an idea with light bulb, crying, showing peace sign, making heart with hands -- 3D Pixar style, soft shading, high detail, warm color palette, white background, symmetrical layout -v\n6 --ar 2:3 --q 2 --style 4b"
+  },
+  {
+    "image" : "images/image24.png",
+    "prompt" : "A highly detailed 3D render of a \"BRAND\" logo designed in a futuristic, glossy transparent plastic capsule style. Each part of the logo features vibrant colors with a shiny, high-tech appearance. The surfaces are smooth, semi-transparent, and contain visible screws, inner textures, and mechanical components, resembling miniature tech gadgets. Materials look like clear acrylic, resin, and polished plastic. Lighting is soft and studio-style, with clean shadows and realistic reflections. The background is minimal, light gray, creating a clean and modern composition. Ultra-realistic, photoreal, cinematic lighting, 4K resolution."
+  },
+  {
+    "image" : "images/image25.png",
+    "prompt" : "SHOELACE TYPOGRAPHY \"YOUR TEXT\", EMBROIDERED DENIM PATCH, BOLD THICK STITCHING, SLIGHTLYRAISED THREAD TEXTURE, COLORWAY \"HYPER BUBBLE DENIM\" : BRIGHT DENIM BLUE, HOT PINK, VIVID MINT GREEN, CLEAN WHITE, SHARP CHERRY RED ACCENTS, HIGH COLOR SATURATION, CRISP TEXTILE CONTRAST, CENTERED COMPOSITION, WHITE BACKGROUND, CLEAN SHADOW, PRODUCT PHOTOGRAPHY, ASPECT RATIO 4:5, ULTRA DETAILED"
+  },
+  {
+    "image" : "images/image26.png",
+    "prompt" : "A hyper-realistic, highly detailed depiction of the Cyrillic letter 'k' crafted using tufting technique. The letter is made of vibrant, multicolored wool yarn (shades of red, blue, and cream) with a soft, fluffy texture, arranged in intricate tufted patterns. The tufting is set against a clean, pure white background, with subtle frayed edges and delicate stitching details. The scene is lit by soft, warm light, highlighting the tactile, three-dimensional quality of the yarn and the depth of the tufted design. The atmosphere is cozy and artisanal, with a focus on fine textures and craftsmanship. Style: photorealism, 8K resolution. --ar 1:1 --\nv 5--q1"
   }
 ]
