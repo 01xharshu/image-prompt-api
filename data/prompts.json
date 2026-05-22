@@ -122,5 +122,33 @@
   {
     "image" : "images/image31.png",
     "prompt" : "Hyperrealistic product photography of a glossy 3D enamel pin badge featuring the [brand] logo, pinned into [materiall fabric. Shot with a wide-angle lens at f/1.4 with razor-sharp focus on the badge and creamy bokeh background. Physically accurate reflections,\nrefractions, and micro-scratches on the metal surface. Soft studio lighting with a single key light casting elegant soft shadows across the fabric texture. Slight Dutch angle for dynamic composition. Ultra-detailed render, editorial fashion photography style."
+  },
+  {
+    "image" : "images/image32.png",
+    "prompt" : "A hyper-realistic 3D uppercase letter \"L\" constructed entirely from thick, rusty metal chain links. The chains are textured with detailed corrosion, rust, and weathered metal surfaces. The letter \"L\" is formed naturally by the interlocked chains and centered on a clean white background. The lighting is soft and evenly distributed to highlight the texture without casting strong shadows.\nHigh-resolution, minimalistic composition, industrial and gritty aesthetic."
+  },
+  {
+    "image" : "images/image33.png",
+    "prompt" : "Create this hyper-realistic 3D [LOGO] inspired by a turquoise geode with internal crystals. The background is clean white, with soft, even studio lighting that highlights the texture and shape without casting harsh shadows. A high-resolution, minimalist composition with a bold, industrial aesthetic."
+  },
+  {
+    "image" : "images/image34.png",
+    "prompt" : "generate An ultra-photorealistic, high-detail 3D render of a stylized character head, based on the shape of the pinteest logo. The entire head is completely covered in a dense, thick, and incredibly soft-looking deep royal red fur. The fur texture is highly detailed, showing individual fibers and strands, catching soft light and looking tactile and fluffy. The character head is perfectly centered and isolated against a solid, deep black background. Soft, cinematic studio lighting emphasizes the fur texture and the glow of the eyes, creating a high-end, premium feel. The camera is positioned dead-on, providing a straight-on, macro-style perspective. The resolution is extremely high, with a clean, artifact-free render quality, as if from a professional Cycles or Octane render."
+  },
+  {
+    "image" : "images/image35.png",
+    "prompt" : "A soft, puffy 3D render of the Sonic logo shaped like an inflatable toy. The surface is textile, matte with realistic seams and folds. Positioned at a 45-degree angle on a bright white background, giving an floating plush"
+  },
+  {
+    "image" : "images/image36.png",
+    "prompt" : "Generate a hyper-realistic 3D render of a freshly - sliced carrot floating horizontaly in mid-air sith esch low-flooten vertically in nd-air with incrrate cross sexion retalies, scoss-section details a rich, saturated tones for interior textures The style is highly detailed, photorealistic style with precise focus on material properties."
+  },
+  {
+    "image" : "images/image37.png",
+    "prompt" : "Generate a hyper-realistic 3D render of a [object] sliced into multiple horizontal layers, with each layer floating vertically in mid-air at slightly different heights. The subject should appear freshly cut, showcasing intricate cross-section details. Capture the scene from a slight low-angle perspective to emphasize the floating effect. Use soft, diffused lighting coming from the upper left to create subtle shadows beneath each layer while maintaining vibrant illumination on the surfaces. The background should be pure white for maximum contrast. Employ a natural and juicy color palette that highlights the object's freshness, with rich, saturated tones for the interior textures. Render in a highly detailed, photorealistic style with precise focus on material properties."
+  },
+  {
+    "image" : "images/image38.png",
+    "prompt" : "Create a poster with a 3:4 aspect ratio.\nA pill with [brand] on top and transparent at the bottom, featuring the printed [brand] logo.\nInside the pill, include a large amount of [objects].\nWhite background."
   }
 ]
